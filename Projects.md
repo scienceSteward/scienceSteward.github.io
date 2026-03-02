@@ -52,7 +52,7 @@
 <table>
   <tr>
     <td width="40%">
-      <img src="images/thlaspi_pmac_illustration_cutout.png" alt="Illustration of P. macdunnoughii laying eggs on T. arvense" style="width: 100%; border-radius: 8px;">
+      <img src="images/thlaspi_pmac_illustration_cut.png" alt="Illustration of P. macdunnoughii laying eggs on T. arvense" style="width: 100%; border-radius: 8px;">
     </td>
     <td width="60%" valign="top">
       <p> My doctoral research explored the chemical and behavioral ecology of novel interactions. I focused on evolutionary traps, where an organism's evolved and formerly adaptive hbehavioral cues lead it to select poor-quality resources after environmental change. I stuided native insects that are attracted to invasive plants that are actually lethal to their offspring. This work explored the behavioral, phenotypic and genetic variation that allows a  population to evolve away from these traps or keep them "stuck" in a 
