@@ -26,7 +26,7 @@
     </td>
     <td width="60%" valign="top">
       <p>I am interested in the multitrophic drivers of host use, specifically how microbes modify interactions between insects and plants. Insect host use depends not only on characteristics of the colonizing insect, but interactions with organisms at multiple trophic levels, including the chemical and nutritional landscape of the host plant and its associated microbial communities. Without a mechanistic understanding of the interaction between plant, insect, and microbes, it is impossible to determine the ecological pressures that promote host-associated differentiation, ultimately impacting patterns of biodiversity. I am especially interested in these multitrophic interactions in cases of recent host expansion (_i.e.,_ increased generalization). Modern techniques allow for integration of -omic data across multiple data types. For organisms with tightly linked life histories, like highly specialized insects and their plant hosts, this presents the novel opportunity to use multi-omic approaches to link data not only within an organism, but across trophic levels. </p>
-     <a href="https://github.com/yourlink">View Repository</a>
+     <a href="https://github.com/scienceSteward/scienceSteward.github.io">Ongoing work</a>
     </td>
   </tr>
 </table>
@@ -56,7 +56,7 @@
     </td>
     <td width="60%" valign="top">
       <p> My doctoral research explored the chemical and behavioral ecology of novel interactions. I focused on evolutionary traps, where an organism's evolved and formerly adaptive behavioral cues lead it to select poor-quality resources after environmental change. I studied native insects that are attracted to invasive plants that are actually lethal to their offspring. This work explored the behavioral, phenotypic and genetic variation that allows a population to evolve away from these traps or keep them "stuck" in a state of maladaptation. </p>
-      <a href="https://github.com/yourlink">View Repository</a>
+      <a href="cholar.google.com/citations?user=0MM5M14AAAAJ&hl=en">Find publications here</a>
     </td>
   </tr>
 </table>
