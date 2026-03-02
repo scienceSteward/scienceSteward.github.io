@@ -1,25 +1,24 @@
 ---
 ---
-
-// 1. Define your custom colors here
-$section-headings-color: #bec050; 
-$header-bg-color: #9f5a20;        // The primary header color
-$header-bg-color-secondary: #9f5a20; // Architect uses this for the gradient
-$link-color: #3b5a10;
-
-// 2. Import the rest of the Architect theme
 @import "{{ site.theme }}";
 
-// 3. Power Overrides
-// This part is necessary because Architect has a default background-image 
-// that sits on top of your color.
+/* 1. Force Header Color & Remove Blue Gradient */
 .page-header {
-  background-color: $header-bg-color !important;
-  background-image: none !important; // This removes the default blue gradient
+  background-color: #9f5a20 !important;
+  background-image: none !important;
 }
 
-// 4. (Optional) Add any extra custom CSS below this line
+/* 2. Force Heading Colors (The Olive Green) */
+h1, h2, h3, h4, h5, h6 {
+  color: #bec050 !important;
+}
+
+/* 3. Force Link Colors */
+a {
+  color: #3b5a10 !important;
+}
+
+/* 4. Background Color */
 body {
-  background-color: #f4f4f4; 
+  background-color: #f4f4f4 !important;
 }
-
