@@ -6,10 +6,10 @@
 ## Genomics and Transcriptomics of Host Repertoire
 <table>
   <tr>
-    <td width="30%">
-      <img src="images/project2.jpg" alt="Project 2" style="width: 100%; border-radius: 8px;">
+    <td width="40%">
+      <img src="images/tcon_inversion.png" alt="Tephritis conura host race inversion" style="width: 100%; border-radius: 8px;">
     </td>
-    <td width="70%" valign="top">
+    <td width="60%" valign="top">
       <p>A major goal of my research has been to understand the genomic and transcriptomic mechanisms underlying how insects use their host plants, and how this changes as environments change over shorter and longer evolutionary time. We use the peacock fly (_Tephritis conura_) and butterflies (_e.g., Polygonia c. album, Vanessa cardui_) to study the determinants of host repertoire (_i.e._ diet breadht), exploring how structural changes in the genome like inversions and repetitive content can help maintain adaptations and host associated divergence in the face of ongoing gene flow. </p>
       <a href="https://github.com/yourlink">View Repository</a>
     </td>
