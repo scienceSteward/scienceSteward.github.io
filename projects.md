@@ -18,6 +18,17 @@
 
 ---
 
+<div class="overlap-container">
+  <img src="images/tcon_inversion.png" alt="Tephritis conura host race inversion" class="overlap-image" style="border-radius: 8px;">
+  
+  <div class="overlap-text-box">
+    <p>A major goal of my research has been to understand the genomic and transcriptomic mechanisms underlying how insects use their host plants, and how this changes as environments change over shorter and longer evolutionary time. We use the peacock fly (<i>Tephritis conura</i>) and butterflies (<i>e.g., Polygonia c. album, Vanessa cardui</i>) to study the determinants of host repertoire (<i>i.e.</i> diet breadth), exploring how structural changes in the genome like inversions and repetitive content can help maintain adaptations and host associated divergence in the face of ongoing gene flow.</p>
+    <a href="https://github.com/scienceSteward/Tconura_expressionPlasticity" style="font-weight: bold;">View Repository</a>
+  </div>
+</div>
+
+---
+
 ## Multitrophic Multi-omics
 <table>
   <tr>
