@@ -1,6 +1,4 @@
-# The Steward Lab
-
-## PI: Rachel A. Steward 
+# PI: Rachel A. Steward 
 <img src="images/Steward_2023.png" width="200" align="right" />
 
 I am a researcher in the Biodiversity and Evolution Division within the Biology Department at Lund University, Sweden. My work sits at the intersection of evolutionary genomics and ecology, with a primary focus on how organisms adapt to novel or changing environments. My research is currently funded by several grants, including from the Swedish Research Council (2025–2029). 
