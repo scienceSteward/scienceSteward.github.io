@@ -1,29 +1,49 @@
 ---
 ---
+@import "{{ site.theme }}";
 
-/* Overlapping Card Layout */
+/* Architect-Aligned Overlapping Card */
 .overlap-container {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 40px 0;
+  margin: 2.5rem auto; 
+  max-width: 100%;    
 }
 
 .overlap-image {
-  width: 80%; /* Adjust size as needed */
+  width: 100%;        
+  max-width: 800px;   
+  height: auto;
   z-index: 1;
+  display: block;
+  border: 1px solid #d5d5d5; /* Matches Architect's image borders */
 }
 
 .overlap-text-box {
-  width: 90%;
-  margin-top: -50px; /* This creates the overlap */
-  background-color: rgba(255, 255, 255, 0.85); /* Semi-opaque white */
-  padding: 20px;
-  border-radius: 8px;
-  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-  z-index: 2; /* Ensures text stays on top */
+  width: 92%;         
+  max-width: 720px;   
+  margin-top: -60px;  /* The vertical overlap */
+  background-color: rgba(255, 255, 255, 0.95); /* Nearly solid white for readability */
+  padding: 1.5rem;
+  border-radius: 4px; /* Architect uses smaller border-radii */
+  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+  z-index: 2;
   position: relative;
+  
+  /* Default Architect Accent Colors */
+  border-left: 6px solid #2c3e50; /* The dark slate from the header */
+  color: #373737;                 /* Standard Architect body text color */
+  line-height: 1.6;
 }
 
-/* For Dark Mode or Darker Backgrounds, use this instead: */
-/* background-color: rgba(0, 0, 0, 0.7); color: white; */
+/* Ensure the link inside the box matches the theme's bright blue */
+.overlap-text-box a {
+  color: #0077bb !important; 
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.overlap-text-box a:hover {
+  text-decoration: underline;
+}
