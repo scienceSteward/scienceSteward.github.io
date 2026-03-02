@@ -1,0 +1,16 @@
+---
+---
+
+// 1. Define your custom colors here
+$section-headings-color: #bec050; // Changes the orange-ish headers
+$header-bg-color: #9f5a20;       // Changes the top banner color
+$link-color: #3b5a10;            // Changes the color of your links
+
+// 2. Import the rest of the Architect theme
+@import "{{ site.theme }}";
+
+// 3. (Optional) Add any extra custom CSS below this line
+body {
+  background-color: #f4f4f4; 
+}
+
