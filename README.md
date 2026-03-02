@@ -11,4 +11,4 @@ My research explores the genetic mechanisms that allow species to transition to 
 ---
 
 ### Navigation
-[View Lab Projects](projects.md) | [LU Research Portal]([your-link](https://portal.research.lu.se/en/persons/rachel-steward/)) | [Email Me](mailto:rachel.steward@biol.lu.se)
+[View Lab Projects](Projects.md) | [LU Research Portal]([your-link](https://portal.research.lu.se/en/persons/rachel-steward/)) | [Email Me](mailto:rachel.steward@biol.lu.se)
