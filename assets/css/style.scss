@@ -1,0 +1,29 @@
+---
+---
+
+/* Overlapping Card Layout */
+.overlap-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 40px 0;
+}
+
+.overlap-image {
+  width: 80%; /* Adjust size as needed */
+  z-index: 1;
+}
+
+.overlap-text-box {
+  width: 90%;
+  margin-top: -50px; /* This creates the overlap */
+  background-color: rgba(255, 255, 255, 0.85); /* Semi-opaque white */
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  z-index: 2; /* Ensures text stays on top */
+  position: relative;
+}
+
+/* For Dark Mode or Darker Backgrounds, use this instead: */
+/* background-color: rgba(0, 0, 0, 0.7); color: white; */
