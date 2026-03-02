@@ -2,10 +2,11 @@
 ---
 @import "{{ site.theme }}";
 
-/* 1. Force Header Color & Remove Blue Gradient */
-.page-header {
+/* 1. THE SLEDGEHAMMER: Force Header Color & Kill the Gradient */
+header, .page-header, #project_title {
   background-color: #9f5a20 !important;
-  background-image: none !important;
+  background-image: none !important; /* This kills the blue fade */
+  border-bottom: none !important;    /* Optional: removes any bottom border */
 }
 
 /* 2. Force Heading Colors (The Olive Green) */
