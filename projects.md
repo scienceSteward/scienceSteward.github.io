@@ -1,4 +1,4 @@
-# My Projects
+# Steward Lab Projects
 [← Back to Home](README.md)
 
 ---
